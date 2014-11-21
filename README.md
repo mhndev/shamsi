@@ -2,7 +2,7 @@
 
 ### Installation
 Add this package to your composer.json and run composer update.
-"Majid/shamsi": "0.1.x",
+"Majid/shamsi": "dev-master"
 
 
 Add the ServiceProvider to the providers array in app/config/app.php
