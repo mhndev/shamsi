@@ -1,6 +1,6 @@
 {
     "name": "majid/shamsi",
-    "keywords": ["laravel", "shamsi", "hejri", "date", "time","iran","farsi","persian"],
+    "keywords": ["laravel", "shamsi", "hejri", "date", "time","iran","farsi","persian","hijri"],
     "description": "laravel 4.2 package for shmasi date",
     "license": "MIT",
     "authors": [
