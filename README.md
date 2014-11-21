@@ -19,5 +19,5 @@ the mentioned link also has documentation for each function to use.
 feel free to comment and report the bugs which make this package more useful .
 
 ##License
-this package was created by Sallar Kaboli and is released under the MIT License.
+this package was created by Majid Abdolhosseini and is released under the MIT License.
 
